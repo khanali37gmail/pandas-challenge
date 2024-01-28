@@ -3,7 +3,8 @@
 
 
 
-   * In this repository you will find under resources folder two sets of csv raw data file derived from the Distirct which are going to be under my analysis.
+   * In this repository you will find under resources folder two sets of csv raw data file derived from the School Distirct which are going to be under my analysis.
+   * Folder PyCitySchools you will find the code which I have derived from many sources to help navigate to our requirments.
 
     * The task on hand given to me are :
 
