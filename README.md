@@ -54,7 +54,7 @@
                 % Over All Passing 
 
 
-    A File name Module 5 in a text format will be attached for more detail instruction on specific data that need to be calculated. 
+    A File name Module 5 in a text format will be attached for more detail analysis on specific data that need to be calculated. 
 
     
                 
