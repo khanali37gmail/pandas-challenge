@@ -5,7 +5,7 @@
 
    * In this repository you will find under resources folder two sets of csv raw data file derived from the School Distirct which are going to be under my analysis.
    * Folder PyCitySchools you will find the code which I have derived from many sources to help navigate to our requirments.
-   * A File name Module 5 in a text format will be attached for more detail instruction on specific data that need to be calculated. 
+   * A File name Module 4 in a PDF format will be attached for more detail instruction on specific data that need to be calculated. 
 
     * The task on hand given to me are :
 
