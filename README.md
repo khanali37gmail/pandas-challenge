@@ -1,5 +1,6 @@
 ## Pandas-challenge
-- As a position of new Cheif Data Scientist for Citys School District, I have to complie a series of report to sturcture future school budgetes and prioriteies. 
+- As a position of new Cheif Data Scientist for Citys School District, I have to complie a series of report to sturcture future school budgetes and prioriteies.
+- You will find my final report in PyCity School Analysisfinal.docx  or PyCityAnalysis.md
 
 
 
