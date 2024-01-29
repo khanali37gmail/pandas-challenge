@@ -1,4 +1,4 @@
-##PyCity School Analysis
+PyCity School Analysis
 
 This report has been generated based on the data collected from Schools_complete.csv and Students_complete.csv 
 
@@ -68,6 +68,7 @@ District	3999	        $2,547,363.00 	        $637.00 	        $630-645
 Charter        	1761	        $1,056,600.00 	        $600.00 	        $585-630
 Charter        	1635	        $1,043,130.00 	        $638.00 	        $630-645
 Charter	        2283	        $1,319,574.00 	        $578.00 	        <$585
+
 
 
 
