@@ -1,0 +1,121 @@
+PyCity School Analysis
+
+This report has been generated based on the data collected from Schools_complete.csv and Students_complete.csv 
+My Analysis are as follows:
+The analysis indicated that Charter schools outperform District School in terms of average math and reading score, as well as the percentage of student passing both subjects. (refer to Data 1)
+The analysis also suggests that contrary to expectation higher per student spending in district school does not consistently lead to better academic outcomes. (refer to Data 2)
+
+
+District Summary:
+1.	Total Schools:
+•	There are a total of 15 schools in the district.
+2.	Total Students:
+•	The district has a student population of 39,170.
+3.	Total Budget:
+•	The combined budget for all schools in the district is $24,649,428.00.
+4.	Average Math Score:
+•	The average math score across all students in the district is 78.99%.
+5.	Average Reading Score:
+•	The average reading score across all students in the district is 81.88%.
+6.	Percentage Passing Math:
+•	Approximately 74.98% of students in the district have passed the math assessment.
+7.	Percentage Passing Reading:
+•	Approximately 85.81% of students in the district have passed the reading assessment.
+8.	Overall Passing Percentage:
+•	The overall passing percentage, considering both math and reading, is approximately 65.17%.
+
+
+DATA 1 :
+Highest-Performing Schools % Overall Passing 
+Top 5 Highest were Charter school Types
+School Type	Total Students	% Overall Passing
+Charter	1858	91.33476857
+Charter	1635	90.94801223
+Charter	1468	90.59945504
+Charter	2283	90.5825668
+Charter	962	90.54054054
+Charter	1800	90.33333333
+Charter	1761	89.89210676
+
+Bottom Performing Schools % Overall passing 
+The Top 5 lowest were District school Type  
+School Type	Total Students	% Overall Passing
+District	3999	52.98824706
+District	2949	53.20447609
+District	2917	53.51388413
+District	4635	53.52750809
+District	4761	53.53917244
+District	2739	54.28988682
+District	4976	54.64228296
+
+
+		
+
+
+Data 2 : 
+In this report reflection of per student budget can be seen.
+School Type	Total Students	Total School Budget	Per Student Budget	Spending Ranges (Per Student)
+District			  4976	        $3,124,928.00 	        $628.00 	        $585-630
+Charter	     		 1858	        $1,081,356.00 	        $582.00 	        <$585
+District			 2949	        $1,884,411.00         	        $639.00 	        $630-645
+District			 2739	        $1,763,916.00         	        $644.00 	        $630-645
+Charter	    		 1468	        $917,500.00 	        $625.00 	        $585-630
+District			 4635	        $3,022,020.00 	        $652.00 	        $645-680
+Charter        		 427	        $248,087.00 	        $581.00 	        <$585
+District		               2917	        $1,910,635.00 	        $655.00 	        $645-680
+District			 4761	        $3,094,650.00 	        $650.00 	        $645-680
+Charter        		 962	        $585,858.00 	        $609.00 	        $585-630
+District			 3999	        $2,547,363.00 	        $637.00 	        $630-645
+Charter       	 	 1761	        $1,056,600.00 	        $600.00 	        $585-630
+Charter        		 1635	        $1,043,130.00 	        $638.00 	        $630-645
+Charter	      		 2283	        $1,319,574.00 	        $578.00 	        <$585
+
+
+
+
+
+
+
+
+
+Scores By School Type Summary
+
+Charter schools demonstrate significantly higher average scores in both math and reading compared to district schools. Moreover, charter schools exhibit notably higher percentages of students passing both math and reading assessments, resulting in a substantially higher overall passing percentage. This suggests a potential difference in educational approaches and outcomes between charter and district schools.
+
+school type 	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
+charter	83.47385187	83.89642074	93.62083004	96.58648927	90.43224369
+district	76.95673307	80.96663633	66.54845257	80.79906211	53.67220823
+
+
+
+					
+Scores by School Size Summary 
+
+•	Charter schools, on average, outperform district schools in both math and reading scores, as well as in the percentage of students passing both subjects.
+•	Charter schools exhibit higher overall passing percentages, indicating a better overall academic performance.
+•	District schools have larger student populations, but this does not consistently translate to higher academic achievement.
+•	Smaller and medium-sized schools (both charter and district) tend to have higher overall passing percentages.
+
+
+
+
+
+
+
+Scores by School Spending
+1.	<$585:
+•	Charter schools with lower per-student budgets demonstrate strong academic performance across all metrics.
+2.	$585-630:
+•	Both charter and district schools fall into this range, with varied performance.
+•	Charter schools tend to have higher average scores and passing percentages.
+3.	$630-645:
+•	District schools in this range show moderate academic performance.
+•	Charter schools exhibit higher average scores and passing percentages.
+4.	$645-680:
+•	District schools in this range have lower passing percentages.
+•	Charter schools maintain higher academic performance.
+
+
+In conclusion, this analysis provides a comprehensive understanding of the factors influencing academic performance in PyCity schools. It emphasizes the need for a nuanced approach to education, considering not only budget allocations but also the effectiveness of different school types and sizes.
+
+
